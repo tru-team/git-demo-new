@@ -18,6 +18,23 @@
     width: 83%;
     border-radius: 50px 0 0 50px;
 }
+.header_search .search_icon {
+    position: absolute;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    top: 25px;
+    background: none;
+    padding: 0;
+    z-index: 1;
+    margin-left: 40px;
+ }
+ 
+ .header_search .search_icon img {
+    width: 100%;
+    height: auto;
+ }
 
 .beer_explore_wrap
     .explore_bar
