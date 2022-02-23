@@ -1192,14 +1192,14 @@
      }
      .tabbed-deatil-desc ul.tabs li img {
      padding-right: 5px;
-     width: 15px;
+     width: 159px;
      }
      .tabbed-deatil-desc ul.tabs li,
      {
      font-size: 12px;
      }
      .detail-coloums li {
-     font-size: 9px;
+     font-size: 09px;
      }
      /*---------internal css-------*/
      .beer_single_filter .beer_single_filters_inner {
@@ -1207,7 +1207,7 @@
      }
      .beer_single_filter .beer_single_filters_inner a {
      font-size: 10px;
-     padding: 7px 5px;
+     padding: 7px 15px;
      }
      .beer_single_filter .beer_single_filters_inner .filter_txt {
      margin-right: 10px;
